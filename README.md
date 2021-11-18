@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LeeThanh24
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning in UIT  ...
+- 👋 Hi, I’m Thanh 
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning in UIT  
 - 💞️ I’m looking to collaborate on ... haven't thought yet :)))
 - 📫 How to reach me : leethanh24003@gmail.com 
 
