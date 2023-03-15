@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thanh 
 - 👀 I’m interested in coding 
-- 🌱 I’m currently studying in UIT  
+- 🌱 I’m studying in UIT  
 - 📫 How to reach me : leethanh24003@gmail.com 
 
 <!---
