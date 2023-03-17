@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thanh 
-- 👀 I’m interested in coding 
+- 👀 I’m interested in gym 
 - 🌱 I’m studying in UIT  
 - 📫 How to reach me : leethanh24003@gmail.com 
 
